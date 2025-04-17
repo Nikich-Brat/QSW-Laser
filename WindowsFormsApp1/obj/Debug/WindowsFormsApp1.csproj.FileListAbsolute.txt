@@ -1,0 +1,32 @@
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study\C++andC#\VisualStudioProjects C#\RungeKutta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study\C++andC#\VisualStudioProjects C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+B:\Krasnoperov\programming\Personal previous programs\C\VSProjects on C#\LaserQSW\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
