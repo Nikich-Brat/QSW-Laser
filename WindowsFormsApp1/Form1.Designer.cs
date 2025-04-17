@@ -133,7 +133,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(61, 20);
             this.textBox3.TabIndex = 7;
-            this.textBox3.Text = "10";
+            this.textBox3.Text = "0,10";
             // 
             // textBox4
             // 
